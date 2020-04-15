@@ -1,0 +1,19 @@
+- 언리얼엔진에서 오브젝트를 선택한 상태에서 end를 누르면 자동으로 바닥까지 내려간다.
+
+- cos(-각도) = cos(각도)
+- sin(-각도) = -sin(각도)
+- 라디안 = 호 / 지름
+- 호 = 라디안 * 지름
+
+## 합성각 공식
+- cos(a+b) = cos(a)cos(b) - sin(a)sin(b)
+- sin(a+b) = sin(a)cos(b) + cos(a)sin(b)
+- cosx**2 + sinx**x = 1
+
+## 배각 공식
+- sin*2x = 2sin(x)cos(x)
+- cos*2x = 2cos(x)sin(x)
+
+## 보각
+- sin(90도 - x) = cosx
+- cos(90도 - x) = sinx
