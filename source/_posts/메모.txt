@@ -17,3 +17,12 @@
 ## 보각
 - sin(90도 - x) = cosx
 - cos(90도 - x) = sinx
+
+astar
+비헤이비어 트리
+FSM
+약 포인터, 스마트 포인터, TSharedPtr
+https://www.slideshare.net/MrDustinLee/ss-146148447
+- HUD(Head up Display) UI
+- 언리얼의 인풋모드
+- 언리얼의 월드란 정확히 무엇일까?
